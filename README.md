@@ -67,4 +67,4 @@
                 Telefon: (0681) 58 67 - 0<br>
                 Telefax: (0681) 58 67 - 122<br>
                 E-Mail: <a href="mailto:info@htwsaar.de">info@htwsaar.de</a>
-                <p style="font-size: small;">Erstellt von Joshua Perty und Dennis Andruskevic</p>
+                <p style="font-size: small;">Erstellt von Joshua Petry und Dennis Andruskevic</p>
